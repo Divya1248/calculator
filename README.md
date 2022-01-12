@@ -1,2 +1,2 @@
-# spotiftclone
+# spotifyclone
 calculator by using react
